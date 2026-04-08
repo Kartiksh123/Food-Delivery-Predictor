@@ -12,7 +12,7 @@
 ---
 
 ## 📸 App Preview
-![App Screenshot](screenshot.png)
+![App Screenshot](food_predictor.png)
 
 ---
 
