@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Live Demo
-🔗 https://your-app.streamlit.app
+🔗 https://kartiksh123-food-delivery-predictor-food-delivery-app-gesjdg.streamlit.app/
 
 ---
 
